@@ -65,12 +65,3 @@ This mobile application helps users to create, manage, and organize their shoppi
    - You can edit or delete existing lists.
    - You can update the items in a list or completely remove the list.
 
-# Application Content
-
-| Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
-|---------|---------|---------|---------|---------|
-| ![Image 1](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping1.png?raw=true) | ![Image 2](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping2.png?raw=true) | ![Image 3](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping3.png?raw=true) | ![Image 4](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping4.png?raw=true) | ![Image 5](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping5.png?raw=true) |
-
-| Image 6 | Image 7 | Image 8 | Image 9 | Image 10 |
-|---------|---------|---------|---------|---------|
-| ![Image 6](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping6.png?raw=true) | ![Image 7](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping7.png?raw=true) | ![Image 8](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping8.png?raw=true) | ![Image 9](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping9.png?raw=true) | ![Image 10](https://github.com/beklevicRidvan/ShoppingListApp/blob/main/assets/shopping10.png?raw=true) |
