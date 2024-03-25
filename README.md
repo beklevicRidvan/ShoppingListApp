@@ -1,2 +1,2 @@
 # ShoppingListApp
- Provider iel ShoppingListApp
+ # Uygulama içeriği
